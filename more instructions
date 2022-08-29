@@ -1,0 +1,5 @@
+Create a new repo in your account and note the git url
+Clone this repo
+Solve the challenge
+Set your new repo as the origin: git remote set-url origin ${your repo url}
+Push your solution to your repo You must follow these steps for your solution to be accepted -- forks or other methods will not be considered.
